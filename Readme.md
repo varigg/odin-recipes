@@ -1,0 +1,1 @@
+The Recipes project from the foundation course of the [The Odin Project](https://www.theodinproject.com/)
